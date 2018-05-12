@@ -1,0 +1,29 @@
+_repo: Human-Nature-and-ConductAn-introduction-to-social-psychology_41386
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41386-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2012-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41386'
+  lccn: '22004249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Habit'
+- !lcsh 'Social psychology'
+title: 'Human Nature and Conduct: An introduction to social psychology'
+url: http://www.gutenberg.org/ebooks/41386
